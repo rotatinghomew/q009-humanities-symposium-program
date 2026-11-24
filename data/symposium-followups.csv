@@ -2,3 +2,8 @@ event_key,topic_key,proposal_school,discipline,event_date,participant_count,foll
 EV-1,T-03,Harbor,ethics,2026-06-10,28,course-material,planned,DOC-1
 EV-1,T-03,Pine,law,2026-06-10,28,practice-session,started,DOC-2
 EV-2,T-08,Lake,psychology,2026-06-11,15,course-material,verified,DOC-3
+EV-1,T-03,Harbor,ethics,2026-06-10,28,practice-session,planned,DOC-4
+EV-3,T-03,Pine,law,2026-06-12,17,course-material,started,DOC-5
+EV-3,T-11,Harbor,clinical-ethics,2026-06-12,17,practice-session,not-started,DOC-6
+EV-4,T-14,West,psychology,2026-06-13,0,course-material,no-evidence,DOC-7
+EV-2,T-08,Lake,psychology,2026-06-11,15,practice-session,verified,DOC-8
