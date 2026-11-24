@@ -1,0 +1,4 @@
+event_key,topic_key,proposal_school,discipline,event_date,participant_count,followup_kind,followup_state,evidence_ref
+EV-1,T-03,Harbor,ethics,2026-06-10,28,course-material,planned,DOC-1
+EV-1,T-03,Pine,law,2026-06-10,28,practice-session,started,DOC-2
+EV-2,T-08,Lake,psychology,2026-06-11,15,course-material,verified,DOC-3
